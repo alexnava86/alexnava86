@@ -24,13 +24,10 @@
 ### :man_technologist: Bio :
 I'm a Game Developer/Software Engineer from Texas. 
 
-:printer:  I’m currently working as a Graphic Design/Web Admin for a local printing company.
-
-- :musical_note: Exploring Sound Engineering and Musicianship.
-
-- :zap: In my free time, I solve problems on Neetcode and read tech articles.
-
-- :mailbox:How to reach me: 
+- :printer: I’m currently working as a Graphic Design/Web Admin for a local printing company.
+- :musical_note: 
+- :zap: In my free time, I solve problems on HackerRank and Leetcode.
+- :mailbox:Contact Me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.nava.developer@outlook.com)
 
