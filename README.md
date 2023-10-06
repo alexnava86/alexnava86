@@ -22,9 +22,9 @@
 ---
 
 ### :man_technologist: Bio :
-I'm a Game Developer/Software Engineer from Texas. 
+I'm a Game Developer/Software Engineer from Texas, currently working on a indie game with a friend of mine. 
 
-- :printer: I’m currently working as a Graphic Design/Web Admin for a local printing company.
+- :printer: I work as a Graphic Design/Web Admin for a local printing company.
 - :musical_note: 
 - :zap: In my free time, I solve problems on HackerRank and Leetcode.
 - :mailbox:Contact Me: 
