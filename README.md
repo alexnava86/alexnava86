@@ -3,7 +3,7 @@
   <img src="./github-header.png"/>
   <br/>  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/josephevans0">
+    <a href="https://www.linkedin.com/in/alexnava86">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://alexnava86.com/">
@@ -16,7 +16,7 @@
 
 ### :fire: My Stats:
 <div style="display: flex;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeje1197&show_icons=true&theme=radical&count_private=true" alt="Github Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexnava86&show_icons=true&theme=radical&count_private=true" alt="Github Stats">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeje1197&theme=radical&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
 </div>
 
