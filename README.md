@@ -14,7 +14,7 @@
 
 ---
 
-### :fire: My Stats:
+### :chart_with_upwards_trend: Stats:
 <div style="display: flex;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexnava86&show_icons=true&theme=radical&count_private=true" alt="Github Stats">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexnava86&theme=radical&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
