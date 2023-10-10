@@ -21,15 +21,14 @@
 
 ---
 
-### :man_technologist: Bio :
-I'm a Game Developer/Software Engineer from Texas. I'm working on a indie game with a friend of mine titled "Adventure Game". You can read more about it on the GitHub repo, or by visiting my landing page.  
+### :nerd_face: Bio :
+I'm a Game Developer/Software Engineer from Texas. I'm developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the GitHub repo, or by visiting my landing page. I'm currently working as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.  
 
 - :printer: I currently work as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.
-- :nerd_face: 
 - :art:
 - :guitar:
 - :books: 
-- :jp: 暇なときに私も日本語を勉強しま、でもまだ上手じゃありません。
+- :jp: 私も暇なときに日本語を勉強しま、でもまだ上手じゃありません。
 - :mailbox: Contact Me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.nava.developer@outlook.com)
