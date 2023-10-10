@@ -22,11 +22,12 @@
 ---
 
 ### :man_technologist: Bio :
-I'm a Game Developer/Software Engineer from Texas, currently working on a indie game with a friend of mine. 
+I'm a Game Developer/Software Engineer from Texas. I'm working on a indie game with a friend of mine titled "Adventure Game". You can read more about it on the GitHub repo, or by visiting my landing page.  
 
-- :printer: I work as a Graphic Design/Web Admin for a local printing company.
+- :printer: I currently work as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.
 - :musical_note: 
-- :zap: In my free time, I solve problems on HackerRank and Leetcode.
+- :zap:　
+- :flag_of_japan: 暇なときに私も日本語を勉強しま、でもまだ上手じゃありません。
 - :mailbox:Contact Me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.nava.developer@outlook.com)
