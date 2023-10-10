@@ -26,10 +26,10 @@ I'm a Game Developer/Software Engineer from Texas. I'm working on a indie game w
 
 - :printer: I currently work as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.
 - :man_technologist: 
-- :artist_palette:
+- :art:
 - :guitar:
-- :books:　
-- 🇯🇵 暇なときに私も日本語を勉強しま、でもまだ上手じゃありません。
+- :books: 
+- :jp: 暇なときに私も日本語を勉強しま、でもまだ上手じゃありません。
 - :mailbox: Contact Me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.nava.developer@outlook.com)
