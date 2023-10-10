@@ -25,7 +25,7 @@
 I'm a Game Developer/Software Engineer from Texas. I'm working on a indie game with a friend of mine titled "Adventure Game". You can read more about it on the GitHub repo, or by visiting my landing page.  
 
 - :printer: I currently work as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.
-- :nerdy_face: 
+- :nerd_face: 
 - :art:
 - :guitar:
 - :books: 
