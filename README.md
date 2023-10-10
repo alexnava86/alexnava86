@@ -13,7 +13,7 @@
 
 ---
 
-### :chart_with_upwards_trend: Stats:
+### :chart_with_upwards_trend: Stats
 <div style="display: flex;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexnava86&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexnava86&theme=tokyonight&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
@@ -21,7 +21,7 @@
 
 ---
 
-### :nerd_face: Bio :
+### :nerd_face: Bio
 I'm a Game Developer/Software Engineer from Texas. I'm developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the GitHub repo, or by visiting my landing page. I'm currently working as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.  
 
 - :printer: I currently work as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.
@@ -35,7 +35,7 @@ I'm a Game Developer/Software Engineer from Texas. I'm developing an indie game 
 
 ---
 
-### :hammer_and_wrench: Languages & Tools :
+### :hammer_and_wrench: Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
