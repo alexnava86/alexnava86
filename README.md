@@ -28,8 +28,8 @@
 I'm a Game Developer/Software Engineer from Texas. I'm currently developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by visiting <a href="https://alexnava86.com/">my page</a>. For the time being, I work as a Graphic Design/Web Admin for a local printing company :printer: though I am seeking opportunities as a game or software developer.  
 
 - :paintbrush::art: I'm also an artist. You can view some of my work <a href="https://alexnava86.com/Art/">here</a>.
-- :guitar::piano: I also like to play music, but I don't really write anything these days.
-- :globe_showing_Americas::books: In my free time, I enjoy listening to history podcasts and watching historical documentaries.a
+- :guitar::musical_keyboard: I also like to play music, but I don't really write anything these days.
+- :earth_americas::books: In my free time, I enjoy listening to history podcasts and watching historical documentaries.a
 - :jp: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
 
 ---
