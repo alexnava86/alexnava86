@@ -31,9 +31,6 @@ I'm a Game Developer/Software Engineer from Texas. I'm currently developing an i
 - :guitar: 
 - :books: I
 - :jp: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
-- :mailbox: Contact Me: 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.nava.developer@outlook.com)
 
 ---
 
