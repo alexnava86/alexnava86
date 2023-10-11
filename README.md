@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/itchdotio-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
     </a>
     <a href="https://alexnava86.com/">
-      <img src="https://img.shields.io/badge/website-BE94f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/website-BE94f0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
 </div>
