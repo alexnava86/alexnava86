@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://alexnava86.itch.io/">
-      <img src="https://img.shields.io/badge/itchdotio-FA5C5C?style=for-the-badge&logo=About.me&logoColor=white" alt="Itch.io Badge"/>
+      <img src="https://img.shields.io/badge/itchdotio-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
     </a>
     <a href="https://alexnava86.com/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
