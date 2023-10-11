@@ -22,12 +22,11 @@
 ---
 
 ### :nerd_face: Bio
-I'm a Game Developer/Software Engineer from Texas. I'm currently developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by visiting <a href="https://alexnava86.com/">my page</a>. For now I work as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.  
+I'm a Game Developer/Software Engineer from Texas. I'm currently developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by visiting <a href="https://alexnava86.com/">my page</a>. For the time being, I work as a Graphic Design/Web Admin for a local printing company :printer: though I am seeking opportunities as a game or software developer.  
 
-- :printer: I currently work as a Graphic Design/Web Admin for a local printing company, though I am seeking opportunities as a game or software developer.
-- :art:
-- :guitar:
-- :books: 
+- :art: I'm also an artist. Check out some of my work <a href="https://alexnava86.com/Art/">here</a> 
+- :guitar: 
+- :books: I
 - :jp: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
 - :mailbox: Contact Me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
