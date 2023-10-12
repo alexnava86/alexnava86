@@ -55,6 +55,6 @@ I'm a :video_game:&#8201;Game Developer/Software Engineer :computer: from Texas:
 
 ---
 
-### :mailbox: Contact Me
+### :mailbox: Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.nava.developer@outlook.com)
