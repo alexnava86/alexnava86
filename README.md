@@ -25,11 +25,11 @@
 ---
 
 ### :nerd_face: Bio
-I'm a :video_game:&#8201;Game Developer/Software Engineer :computer: from Texas:cowboy_hat_face:. I'm currently developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by visiting <a href="https://alexnava86.com/">my page</a>. For the time being, I work as a Graphic Design/Web Admin for a local printing company :printer: though I am seeking opportunities as a game or software developer.  
+I'm a :video_game:&#8201;Game Developer/Software Engineer :computer: from Texas:cowboy_hat_face:. I'm currently developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by visiting <a href="https://alexnava86.com/">my page</a>. For now, I work as a Graphic Design/Web Admin for a local printing company :printer: though I am actively seeking opportunities as a game or software developer. 
 
-- :art::paintbrush: I'm also an artist. You can view some of my work <a href="https://alexnava86.com/Art/">here</a>.
-- :guitar::musical_keyboard: I also like to play music, but I don't  write much these days.
-- :earth_americas::books: In my free time, I enjoy listening to history podcasts and watching historical documentaries.
+- :art::paintbrush: I'm also an artist. Check out some of my work <a href="https://alexnava86.com/Art/">here</a>.
+- :guitar::musical_keyboard: I enjoy playing music.
+- :earth_americas::books: In my free time, I love listening to podcasts and learning about world history and different cultures. 
 - :jp::japanese_castle: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
 
 ---
