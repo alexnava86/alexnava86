@@ -37,7 +37,7 @@ I'm a :video_game:&#8201;Game Developer/Software Engineer :computer: from Texas:
 ### :hammer_and_wrench: Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://deviconapi.vercel.app/unity?size=40&color=ffffff" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://deviconapi.vercel.app/unity?size=40&color=7f7f7f" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
