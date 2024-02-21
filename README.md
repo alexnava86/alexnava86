@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./github-header.png"/>
+  <img src="./github-header-v2.png"/>
   <br/>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/alexnava86">
