@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./TechCircuitGitHeader.png"/>
+  <img src="./TechGitHeader.png"/>
   <br/>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/alexnava86">
@@ -24,10 +24,10 @@
 
 ---
 
-### :nerd_face: Bio
-I'm a :video_game:&#8201;Game Developer/Software Engineer :computer: from Texas:cowboy_hat_face:. I'm currently developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by visiting <a href="https://alexnava86.com/">my page</a>. For now, I work as a Graphic Design/Web Admin for a local printing company :printer: though I am actively seeking opportunities as a game or software developer. 
+### :pencil: Bio
+Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridians: from Texas:cowboy_hat_face:. I am proficient in a wide array of technologies and tools, including C#, .NET(dotNet), Unity3D, C, Java, JavaScript, Bash/Shell Scripting, HTML/CSS, SQL, Git, as well as 3D modeling and graphic design tools. I have a strong foundation in computer science and technology, and I'm passionate about developing robust software and web applications. I'm also currently developing a video game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by <a href="https://alexnava86.com/">visiting my page</a>. I'm currently seeking new opportunities to utilize my knowledge and skill set. I'm optimistic about the future and am excited to see what it will bring, let's build something great together.
 
-- :art::paintbrush: I'm also an artist. Check out some of my work <a href="https://alexnava86.com/Art/">here</a>.
+- :art::paintbrush: I'm also an artist. You can check out some of my work <a href="https://alexnava86.com/Art/">here on my site</a>.
 - :guitar::musical_keyboard: I enjoy playing music.
 - :earth_americas::books: In my free time, I love listening to podcasts and learning about world history and different cultures. 
 - :jp::japanese_castle: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
@@ -45,6 +45,33 @@ I'm a :video_game:&#8201;Game Developer/Software Engineer :computer: from Texas:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  
+  <!--Azure "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--AzureDevops - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--AzureSqlDatabase - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--Apache - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--Anaconda - "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" -->
+  <!--Bash - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--Blazor - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--C - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--DBeaver - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--DotNetCore - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--Docker - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--Eclipse - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--GitHub - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--NumPy - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--Pandas - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--PowerShell - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--Python - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--VisualStudio - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
+  <!--VSCode - "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" -->
 </div>
 
 ---
