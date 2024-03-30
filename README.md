@@ -25,7 +25,7 @@
 ---
 
 ### :pencil: Bio
-Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridians: from Texas:cowboy_hat_face:. I'm proficient in a wide array of technologies and tools, including Azure, .NET(dotNet) Core, C#, C, Java, JavaScript, Unity3D, SQL, Git, Bash/Shell Scripting, HTML/CSS, as well as 3D modeling and graphic design tools. I have a strong foundation in computer science and technology, and I'm passionate about developing robust software and web applications. I'm also currently developing a video game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by <a href="https://alexnava86.com/">visiting my page</a>. I'm currently seeking new opportunities to utilize my knowledge and skill set. I'm optimistic about the future and am excited to see what it will bring, let's build something great together.
+Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridians: from Texas:cowboy_hat_face:. I'm proficient in a wide array of technologies and tools, including Azure, .NET(dotNet) Core, C#, C, Java, JavaScript, Python, Unity3D, SQL, Git, Bash/Shell Scripting, HTML/CSS, as well as 3D modeling and graphic design tools. I have a strong foundation in computer science, and I'm passionate about developing robust software and web applications. I'm also currently developing a video game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub Repo</a> (or the <a href="https://github.com/alexnava86/AdventureGame/wiki">Wiki</a>), by <a href="https://alexnava86.com/">visiting my page</a> or just by <a href="https://alexnava86.itch.io/adventuregame-v0-0-0325">playing it in its current state on itch.io</a>. I'm currently seeking new opportunities to utilize my knowledge and skill set. I'm optimistic about the future and am excited to see what it will bring, let's build something great together.
 
 - :art::paintbrush: I'm also an artist. You can check out some of my work <a href="https://alexnava86.com/Art/">here on my site</a>.
 - :guitar::musical_keyboard: I enjoy playing music. Mostly covers, indie, classic rock, jazz, world, etc.,
@@ -53,6 +53,8 @@ Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridian
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>
 
+  <!-- BADGES -->
+  <!--Azure - "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" -->
   <!--AzureDevops - "https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" -->
   <!--Bash - "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" -->
   <!--Blazor - "https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" -->
