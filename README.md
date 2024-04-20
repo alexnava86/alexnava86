@@ -28,7 +28,7 @@
 Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridians: from Texas:cowboy_hat_face:. I'm proficient in a wide array of technologies and tools, including Azure, .NET (dotNet) Core, C#, C, Java, JavaScript, Python, Unity3D, SQL, Git, Bash/Shell Scripting, HTML/CSS, as well as 3D modeling and graphic design tools. I have a strong foundation in computer science, and I'm passionate about developing robust software and web applications. I'm also developing a video game with a friend of mine titled "Adventure Game" which you can read more about on the <a href="https://github.com/alexnava86/AdventureGame">GitHub Repo</a>, the <a href="https://github.com/alexnava86/AdventureGame/wiki">Wiki</a>, by <a href="https://alexnava86.com/">visiting my page</a> or just by <a href="https://alexnava86.itch.io/adventuregame-v0-0-0325">playing it in your web browser</a> on itch.io in its current state. I'm currently seeking new opportunities to utilize my knowledge and skill set. I'm optimistic about the future and I'm excited to see what it will bring, let's build something great together.
 
 - :art::paintbrush: I'm also an artist. You can check out some of my work <a href="https://alexnava86.com/Art/">on my site</a>.
-- :guitar::musical_keyboard: I enjoy playing music. Mostly covers, indie, folk, jazz, world, classic rock,country, bluegrass, etc.,
+- :guitar::musical_keyboard: I enjoy playing music. Mostly covers, indie, folk, jazz, world, classic rock, country, bluegrass, etc.,
 - :earth_americas::books: I also love listening to podcasts and learning about world history and different cultures.
 - :jp::japanese_castle: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
 
