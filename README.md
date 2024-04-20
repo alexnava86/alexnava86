@@ -50,7 +50,6 @@ Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridian
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://deviconapi.vercel.app/github?size=40&color=7f7f7f" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
@@ -62,6 +61,7 @@ Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridian
   <!--DBeaver - "https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" -->
   <!--Docker - "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" -->
   <!--Eclipse - "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" -->
+  <!--Github - "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" -->
   <!--Microsoft SQL Server - "https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" -->
   <!--MongoDB - "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" -->
   <!--MySQL - "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" -->
