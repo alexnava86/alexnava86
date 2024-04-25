@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./TechCircuitGitHeader.png"/>
+  <img src="./TechGitHeader.png"/>
   <br/>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/alexnava86">
@@ -24,27 +24,60 @@
 
 ---
 
-### :nerd_face: Bio
-I'm a :video_game:&#8201;Game Developer/Software Engineer :computer: from Texas:cowboy_hat_face:. I'm currently developing an indie game with a friend of mine titled "Adventure Game". You can read more about it on the <a href="https://github.com/alexnava86/AdventureGame">GitHub repo</a>, or by visiting <a href="https://alexnava86.com/">my page</a>. For now, I work as a Graphic Design/Web Admin for a local printing company :printer: though I am actively seeking opportunities as a game or software developer. 
+### :pencil: Bio
+Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridians: from Texas:cowboy_hat_face:. I'm proficient in a wide array of technologies and tools, including Azure, .NET (dotNet) Core, C#, C, Java, JavaScript, Python, Unity3D, SQL, Git, Bash/Shell Scripting, HTML/CSS, as well as 3D modeling and graphic design tools. I have a strong foundation in computer science, and I'm passionate about developing robust software and web applications. I'm also developing a video game with a friend titled "Adventure Game" which you can learn more about on the <a href="https://github.com/alexnava86/AdventureGame">GitHub Repo</a>, <a href="https://github.com/alexnava86/AdventureGame/wiki">the Wiki</a>, by <a href="https://alexnava86.com/">visiting my page</a> or just by <a href="https://alexnava86.itch.io/adventuregame-v0-0-0325">playing it in your web browser</a> on itch.io in its current state. I'm currently seeking new opportunities to utilize my knowledge and skill set. I'm optimistic about the future and I'm excited to see what it will bring, let's build something great together.
 
-- :art::paintbrush: I'm also an artist. Check out some of my work <a href="https://alexnava86.com/Art/">here</a>.
-- :guitar::musical_keyboard: I enjoy playing music.
-- :earth_americas::books: In my free time, I love listening to podcasts and learning about world history and different cultures. 
+- :art::paintbrush: I'm also an artist. You can check out some of my work <a href="https://alexnava86.com/Art/">on my site</a>.
+- :guitar::musical_keyboard: I enjoy playing music. Mostly covers, indie, folk, jazz, world, classic rock, country, bluegrass, etc.,
+- :earth_americas::books: I also love listening to podcasts and learning about world history and different cultures.
 - :jp::japanese_castle: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
 
 ---
 
 ### :hammer_and_wrench: Languages & Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://deviconapi.vercel.app/unity?size=40&color=7f7f7f" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="AzureSQL" alt="AzureSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotNETCore" alt="dotNETCore" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://deviconapi.vercel.app/github?size=40&color=7f7f7f" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://deviconapi.vercel.app/unity?size=40&color=7f7f7f" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+
+
+  <!-- BADGES -->
+  <!--Azure - "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" -->
+  <!--AzureDevops - "https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" -->
+  <!--Bash - "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" -->
+  <!--Blazor - "https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" -->
+  <!--DBeaver - "https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" -->
+  <!--Docker - "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" -->
+  <!--Eclipse - "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" -->
+  <!--Github - "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" -->
+  <!--Microsoft SQL Server - "https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" -->
+  <!--MongoDB - "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" -->
+  <!--MySQL - "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" -->
+  <!--Node.js - "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" -->
+  <!--NumPy - "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" -->
+  <!--Oracle - "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" -->
+  <!--Pandas - "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" -->
+  <!--PostGreSQL - "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" -->
+  <!--PowerShell - "https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" -->
+  <!--Python - "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" -->
+  <!--React - "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" -->
+
+  <!--Windows - "https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" -->
+  <!--Mac - "https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" -->
+  <!--Linux - "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" -->
 </div>
 
 ---
